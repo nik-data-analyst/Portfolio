@@ -27,15 +27,15 @@ Sant Parmanand Hospital
  operational efficiency, applying data analytics to manage large datasets and inform hospital
  administration.
 
- ##  PROJECTS
+ ## PROJECTS
  
  ### Microsoft Excel
  
- ● SalesSnapshot: Analyzed store sales performance to guide strategic decisions.
+ ● Sales Snapshot: Analyzed store sales performance to guide strategic decisions.
  
  ### Microsoft PowerBI
  
- ● HRDashboard:Tracked key HR metrics and analyzed attrition rates.
+ ● HR Dashboard: Tracked key HR metrics and analyzed attrition rates.
  
  ● Electric Vehicle Analysis: Visualized data on electric vehicles in the USA.
  ### Tableau:
