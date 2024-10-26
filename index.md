@@ -48,7 +48,10 @@ Sant Parmanand Hospital
 
 ### SQL:
 
-● PizzaSales Analysis: Conducted SQL-based analysis to optimize business strategies.
+● [Retail sales Analysis](https://github.com/nik-data-analyst/RetailSalesProject): Worked on a Retail Sales Analysis project using SQL .
+
+● [Library Project Management ](https://github.com/nik-data-analyst/library_project): Conducted SQL-based analysis to optimize library Book management from data collection and cleaning to insightful analysis and dashboard creation.
+
 
 ##  CERTIFICATIONS
 
@@ -62,9 +65,11 @@ Sant Parmanand Hospital
 ## EDUCATION
 
  ● Pursuing Masters in Economics, Indira Gandhi National Open University
+ 
  ● B.A.(Hons) Economics, Dyal Singh College, Delhi University (2015-2018)
 
- ##  SKILLS
- Data Analysis, Project Management, Microsoft Excel, Power BI, Tableau, SQL
+##  SKILLS
+
+Data Analysis, Project Management, Microsoft Excel, Power BI, Tableau, SQL
  
  
