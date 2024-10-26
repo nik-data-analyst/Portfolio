@@ -27,40 +27,40 @@ Sant Parmanand Hospital
  operational efficiency, applying data analytics to manage large datasets and inform hospital
  administration.
 
- ## PROJECTS
+## PROJECTS
  
- ### Microsoft Excel
- 
- ● Sales Snapshot: Analyzed store sales performance to guide strategic decisions.
- 
- ### Microsoft PowerBI
- 
- ● HR Dashboard: Tracked key HR metrics and analyzed attrition rates.
- 
- ● Electric Vehicle Analysis: Visualized data on electric vehicles in the USA.
- ### Tableau:
- 
- ● McDonald’sNutrition Analysis: Analyzed nutritional data of McDonald’s menu items.
- 
- ● UPIAdoptionDashboard: Visualized global trends in UPI adoption.
- 
- ● AmazonSalesData: Created dashboards to analyze sales performance across states.
- 
- ### SQL:
- 
- ● PizzaSales Analysis: Conducted SQL-based analysis to optimize business strategies.
+### Microsoft Excel
 
- ##  CERTIFICATIONS
- 
- ● [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/32X5QNTR9SQ9)
- 
- ● [Udemy Microsoft Power BI Desktop for Business Intelligence](https://www.udemy.com/certificate/UC-4a3d8f36-8544-4d36-a506-d8de6d44c59f/)
- 
- ● [Udemy Microsoft SQL Server Database Management](https://www.udemy.com/certificate/UC-a9e912ca-3c2c-41a0-a7b1-361d42ba0c6e/)
+● Sales Snapshot: Analyzed store sales performance to guide strategic decisions.
+
+### Microsoft PowerBI
+
+● HR Dashboard: Tracked key HR metrics and analyzed attrition rates.
+
+● Electric Vehicle Analysis: Visualized data on electric vehicles in the USA.
+### Tableau:
+
+● McDonald’sNutrition Analysis: Analyzed nutritional data of McDonald’s menu items.
+
+● UPIAdoptionDashboard: Visualized global trends in UPI adoption.
+
+● AmazonSalesData: Created dashboards to analyze sales performance across states.
+
+### SQL:
+
+● PizzaSales Analysis: Conducted SQL-based analysis to optimize business strategies.
+
+##  CERTIFICATIONS
+
+● [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/32X5QNTR9SQ9)
+
+● [Udemy Microsoft Power BI Desktop for Business Intelligence](https://www.udemy.com/certificate/UC-4a3d8f36-8544-4d36-a506-d8de6d44c59f/)
+
+● [Udemy Microsoft SQL Server Database Management](https://www.udemy.com/certificate/UC-a9e912ca-3c2c-41a0-a7b1-361d42ba0c6e/)
 
 
- ## EDUCATION
- 
+## EDUCATION
+
  ● Pursuing Masters in Economics, Indira Gandhi National Open University
  ● B.A.(Hons) Economics, Dyal Singh College, Delhi University (2015-2018)
 
