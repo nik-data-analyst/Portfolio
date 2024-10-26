@@ -1,5 +1,5 @@
-titile : Nikhil Prasannan
+title : Nikhil Prasannan
 logo : img.jpeg
-discription : Data Anayst Portfolio
+description : Data Anayst Portfolio
 show downloads : true
-theme : jekyll-theme-minimal
+theme : jekyll-remote-theme
