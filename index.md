@@ -2,14 +2,14 @@
 Analytical and detail-oriented Data Analyst with a strong background in data analysis and business intelligence. Proficient in tools like Microsoft Excel, Power BI, Tableau, and SQL, with hands-on experience in collecting, cleaning, and analyzing data to support business decisions. Adept at visualizing complex datasets, optimizing operations, and delivering actionable insights to drive efficiency and profitability.
 
 ## Work Experience 
- Flipkart                                                                                                             11/7/25 - Till Date 
+ Flipkart    ,                                                                                                                   11/7/25 - Till Date 
 - Conducted data analysis on Flipkart Wholesale buyer activity, developing detailed reports that highlighted existing buyer trends and supported         strategic business planning.
 - Monitored daily, weekly, and monthly sales trends to proactively detect anomalies and communicate action items to relevant departments.
 - Analyzed large financial datasets including budgets, expenditures, and revenue streams to identify trends, discrepancies, and variances, enabling      accurate forecasting and supporting strategic financial decision-making.
 - Conducted data analysis on Flipkart Wholesale buyer activity, developing detailed reports that highlighted existing buyer trends and supported         strategic business planning.
 - Designed and generated comparative year-to-year sales trend reports at the wholesale level, enabling management to identify growth patterns,           seasonal shifts, and sales performance insights.
   
-ShiftAir Pneumatics                                                                                                     Oct 2022 – Dec 2024
+ShiftAir Pneumatics   ,                                                                                                          Oct 2022 – Dec 2024
 - Identified, analyzed and interpreted trends or patterns in complex data sets. 
 - Payroll Processing: Processed salaries in Excel or payroll software, ensuring accurate computation 
 - Financial Reporting and MIS: Prepared monthly MIS reports, cash flow analysis, and variance reports for 
